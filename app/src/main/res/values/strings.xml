@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserListHW</string>
+    <string name="title">Список пользователей</string>
+    <string name="save">Сохранить</string>
+    <string name="exit">Выход</string>
+    <string name="nameUser">Введите имя пользователя</string>
+    <string name="email">Введите email</string>
+    <string name="addUser">Добавить пользователя</string>
+</resources>
